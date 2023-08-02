@@ -1,4 +1,3 @@
 # trabalho-poo
 
-## Na verdade um readme é inútil.
-## Mais um teste
+## Código para trabalho final da aula de Programação Orientada a Objetos.
